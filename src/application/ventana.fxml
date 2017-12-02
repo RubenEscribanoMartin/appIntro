@@ -22,7 +22,7 @@
             </Label>
          </children>
       </AnchorPane>
-      <AnchorPane fx:id="pane2" layoutX="143.0" layoutY="210.0" prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #00b871;" visible="false" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+      <AnchorPane fx:id="pane2" layoutX="143.0" layoutY="210.0" prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #00b871;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
          <children>
             <Label layoutX="179.0" layoutY="77.0" text="Slide 2 title" textFill="WHITE">
                <font>
@@ -37,7 +37,7 @@
             </Label>
          </children>
       </AnchorPane>
-      <AnchorPane fx:id="pane3" layoutX="10.0" layoutY="10.0" prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #ff5e5e;" visible="false" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+      <AnchorPane fx:id="pane3" layoutX="10.0" layoutY="10.0" prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #ff5e5e;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
          <children>
             <Label layoutX="179.0" layoutY="77.0" text="Slide 3 title" textFill="WHITE">
                <font>
@@ -52,7 +52,7 @@
             </Label>
          </children>
       </AnchorPane>
-      <AnchorPane fx:id="pane4" layoutX="10.0" layoutY="10.0" prefHeight="600.0" prefWidth="480.0" style="-fx-background-color: #FFD700;" visible="false" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+      <AnchorPane fx:id="pane4" layoutX="10.0" layoutY="10.0" prefHeight="600.0" prefWidth="480.0" style="-fx-background-color: #FFD700;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
          <children>
             <Label layoutX="179.0" layoutY="77.0" text="Slide 4 title" textFill="WHITE">
                <font>
