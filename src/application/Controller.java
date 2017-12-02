@@ -78,7 +78,7 @@ public class Controller implements Initializable {
 			System.out.println("No more slide");
 		} else if (showSlide == 1) {
 			translateAnimation(0.5, pane2, 615);
-			showSlide--; // showSlide=0
+			showSlide--; // showSlide=1
 			countLabel.setText("1/4");
 
 		} else if (showSlide == 2) {
