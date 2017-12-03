@@ -122,4 +122,9 @@ public class Controller implements Initializable {
 		image4.setEffect(new GaussianBlur(0));
 		
 	}
+	
+	@FXML
+	void buttonClose(ActionEvent event) {
+		System.exit(0);
+	}
 }
